@@ -90,7 +90,9 @@ function App() {
               component={AddBooking}
               isDarkMode={isDarkMode}
             />
+              <Redirect to="/view-image" />
           </Switch>
+
         </div>
 
         <Footer style={{ textAlign: 'center' }}>
@@ -107,7 +109,7 @@ function App() {
         path="/login"
         render={() => <LoginPage setIsAuthenticated={setIsAuthenticated} />}
       />
-      <Redirect to="/login" />
+      <Redirect to="/view-image" />
     </Switch>
   );
 
