@@ -22,7 +22,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "5.0.1",
     "react-spinners": "^0.13.8",
-    "react-webcam-qr-scanner": "^1.0.8",
+  
     "sweetalert2": "^11.4.20",
     "web-vitals": "^2.1.4"
   },
