@@ -1,7 +1,7 @@
 export let appURLs = {
   web: 'http://localhost:8000/',
+  web: 'https://magic-lanten.onrender.com/',
 
-  // web: 'http://203.115.26.13:4000/',
 
 
 }
