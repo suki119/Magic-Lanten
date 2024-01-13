@@ -1,0 +1,25 @@
+
+.common-cotent-container {
+    padding: 5px 20px;
+    height: 100%;
+    background: var(--content-container-bg-light);
+}
+
+.common-save-btn {
+    background-color: #005eb8;
+}
+
+
+.common-cancel-btn {
+    background-color: var( --cancel-btn-bg-light);
+    color:  var(  --cancel-btn-color-light);
+    border: '1px solid rgba(0, 0, 0, 0.23)'
+}
+
+.common-btn-color {
+    background-color: #005eb8;
+}
+
+
+
+
